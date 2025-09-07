@@ -1,0 +1,115 @@
+.roboto-normal {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  margin: 0%;
+}
+
+
+
+h1 {
+  font-size: 50px;
+  font-weight: 800;
+  color: white;
+}
+
+h2 {
+  font-size: 70px;
+  font-weight: 500;
+}
+
+.title-name{
+  color:orangered;
+}
+
+.btn {
+  text-decoration: none;
+  border-radius: 8px;
+  color: black;
+  background-color: orangered;
+  font-size: 18px;
+  font-weight: 700;
+  height: 50px;
+  width: 150px;
+  border: 0px;
+}
+
+.headline {
+  font-size: 30px;
+  font-weight: 400;
+ 
+}
+.half-width{
+  padding: 80px;
+  margin-bottom: 50px;
+}
+
+.top-section {
+  display:flex;
+  justify-content: center;
+  gap: 60px;
+  background-image: url(images.html/wave.svg);
+  background-repeat: no-repeat;
+  padding: 3%;
+ 
+}
+img{
+  width: 40%;
+  height: 90%;
+  border-radius: 20%;
+  
+}
+  
+.half2-width img{
+  width:500px;
+  
+}
+.half3-width{
+  padding-left: 30px;
+  text-align: left;
+}
+.myself{
+  text-decoration: underline;
+}
+.semi-section{
+  display: flex;
+  padding-left: 180px;
+  justify-content: space-between;
+  gap: 100px;
+  
+}
+.description{
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.special-class{
+  text-align: center;
+  font-weight: 800;
+}
+.special-description{
+  font-size: 20px;
+  font-weight: 400;
+  text-decoration: double;
+}
+  
+.parents{
+  display: flex;
+  padding: 0 10%;
+}
+.child{
+font-size: 20px;
+box-shadow: 2px 5px 20px wheat;
+padding : 80px 80px;
+margin:2%;
+border-radius: 0 20px 50px 0;
+border-left: 5px  solid;
+border-image: linear-gradient(blue,aquamarine) 0 100%;
+
+
+}
+h3{
+  text-align: center;
+}
